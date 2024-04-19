@@ -68,6 +68,7 @@ See the video to know the required Gestures: -
 </p>
 
 ### <p align="center"> Mouse Controls </p>
+Please wait for loading.......
 <p align="center">
   <img src="https://github.com/OmarMDiab/PC_Controller-Virtual-Mouse-and-Keyboard/raw/main/Controls_Gifs/Mouse%20Controls.gif" alt="Mouse Controls GIF" width="70%">
 </p>
