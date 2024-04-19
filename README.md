@@ -23,7 +23,9 @@ In My project there are 2 modes
 
 - 1 finger raises volume
 - 2 fingers lowers volume
-  **Brightness Control**
+
+**Brightness Control**
+
 - 3 fingers raises brightness
 - 4 fingers lowers brightness
 
